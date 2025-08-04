@@ -1,4 +1,3 @@
 ﻿# diff-practice
 Git講座diff練習用
-変更WorkingDirectory用(3rd)
-mergetoolコンフリクト用(featureブランチ)
+変更WorkingDirectory用(1st)
